@@ -1,8 +1,5 @@
 package com.company.practice;
 
-/**
- * Created by Woody on 2016/7/20.
- */
 public class Trap {
     public static void main(String[] args) {
         int b[][] = new int[][]{{1}, {2, 3}, {4, 5, 6}};
