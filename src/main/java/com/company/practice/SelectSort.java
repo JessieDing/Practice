@@ -1,5 +1,8 @@
 package com.company.practice;
 
+import java.util.ArrayList;
+import java.util.List;
+
 /**
  * Created by Woody on 2016/7/29.
  */
@@ -12,9 +15,9 @@ public class SelectSort {
 
     public void sort(int[] array) {
         int index;
-        for (int i = 1; i < array.length; i++) {
+        for (int i = 1; i <array.length; i++) {
             index = 0;//最大值？
-            for (int j = 1; j < array.length - i; j++) {
+            for (int j = 1; j <= array.length - i; j++) {
                 if (array[j] > array[index]) {
                     index = j;
                 }
@@ -23,6 +26,7 @@ public class SelectSort {
             array[array.length - i] = array[index];
             array[index] = temp;
         }
+
         showArray(array);
     }
 
