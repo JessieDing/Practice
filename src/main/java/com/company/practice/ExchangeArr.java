@@ -3,7 +3,7 @@ package com.company.practice;
 /**
  * Created by Woody on 2016/7/30.
  * 方法一对原数组无任何操作？？ 只是打印时调换顺序看效果
- * 方法二把换行后的数组保存在一个新的数组中
+ * 方法二把调换后的数组保存在一个新的数组中
  */
 public class ExchangeArr {
     public static void main(String[] args) {
@@ -30,7 +30,7 @@ public class ExchangeArr {
             }
             System.out.println();
         }
-    }   
+    }
 }
 //       //import java.util.Arrays;
 //public class ArrayRowColumnSwap { // 创建类
@@ -43,7 +43,7 @@ public class ExchangeArr {
 //        int arr2[][] = new int[arr.length][arr.length];
 //        for (int i = 0; i < arr.length; i++) {// 调整数组行列数据
 //            for (int j = 0; j < arr[i].length; j++) {
-//                arr2[i][j] = arr[j][i];
+//                arr2[i][j] = arr[j][i];  //行列调换后的数组保存在一个新数组中，此时arr2已调换为[j][i]
 //            }
 //        }
 //        System.out.println("行列互调后：");
@@ -51,7 +51,7 @@ public class ExchangeArr {
 //
 //        printArray(arr2);
 //
-//        //System.out.println(Arrays.equals(arr, arr2));
+//        //System.out.println(Arrays.equals(arr, arr2)); ？？？
 //    }
 //
 //    private static void printArray(int[][] arr) {
