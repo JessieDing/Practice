@@ -1,5 +1,6 @@
 package com.company.practice;
 
+
 /**
  * 说明对象如何调用类成员，先用非静态成员变量，后将成员变量更改为static，如下
  * Created by Woody on 2016/8/1.
@@ -21,6 +22,8 @@ public class TransferProperty {
     }
 
     public static void main(String[] args) {
+
+
         TransferProperty t1 = new TransferProperty();
         TransferProperty t2 = new TransferProperty();
 
@@ -54,3 +57,5 @@ public class TransferProperty {
 
     }
 }
+
+
