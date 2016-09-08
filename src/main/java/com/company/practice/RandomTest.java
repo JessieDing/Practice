@@ -1,5 +1,7 @@
 package com.company.practice;
 
+import java.util.Random;
+
 /**
  * Created by Woody on 2016/8/10.
  */
