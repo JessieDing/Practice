@@ -41,6 +41,7 @@ public class UpdateStu implements Comparable<Object> {
         TreeSet<UpdateStu> tree = new TreeSet<>();
         tree.add(stu1);
         tree.add(stu2);
+
         tree.add(stu3);
         tree.add(stu4);
         Iterator<UpdateStu> it = tree.iterator(); //??? it
