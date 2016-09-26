@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a251b690-44a3-4dbd-9495-f9d89d1e22c9" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/company/practice/Emp.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/company/practice/MapText.java" afterPath="" />
     </list>
     <ignored path="JavaPractice.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -32,7 +33,7 @@
       <file leaf-file-name="UpdateStu.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/company/practice/UpdateStu.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
+            <state relative-caret-position="342">
               <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
               <folding>
                 <element signature="e#459#460#0" expanded="true" />
@@ -53,41 +54,41 @@
         </entry>
       </file>
       <file leaf-file-name="Emp.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/company/practice/Emp.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/company/practice/collection1/Emp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+            <state relative-caret-position="95">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
               <folding>
-                <element signature="e#276#277#0" expanded="true" />
-                <element signature="e#303#304#0" expanded="true" />
-                <element signature="e#341#342#0" expanded="true" />
-                <element signature="e#373#374#0" expanded="true" />
-                <element signature="e#404#405#0" expanded="true" />
-                <element signature="e#433#434#0" expanded="true" />
-                <element signature="e#475#476#0" expanded="true" />
-                <element signature="e#511#512#0" expanded="true" />
+                <element signature="e#288#289#0" expanded="true" />
+                <element signature="e#315#316#0" expanded="true" />
+                <element signature="e#353#354#0" expanded="true" />
+                <element signature="e#385#386#0" expanded="true" />
+                <element signature="e#416#417#0" expanded="true" />
+                <element signature="e#445#446#0" expanded="true" />
+                <element signature="e#487#488#0" expanded="true" />
+                <element signature="e#523#524#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MapText.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/company/practice/MapText.java">
+      <file leaf-file-name="Animal.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/company/practice/Animal.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="627">
-              <caret line="33" column="5" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+            <state relative-caret-position="0">
+              <caret line="0" column="24" selection-start-line="0" selection-start-column="24" selection-end-line="0" selection-end-column="24" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Comparable.java" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Java/jdk1.8.0_92/src.zip!/java/lang/Comparable.java">
+      <file leaf-file-name="MapText.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/company/practice/collection1/MapText.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2014">
-              <caret line="129" column="77" selection-start-line="129" selection-start-column="77" selection-end-line="129" selection-end-column="77" />
+            <state relative-caret-position="304">
+              <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
               <folding>
-                <element signature="e#0#5812#0" expanded="false" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -145,6 +146,8 @@
         <option value="$PROJECT_DIR$/src/main/java/com/company/practice/FinalMethod.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/company/practice/Emp.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/company/practice/MapText.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/company/practice/collection1/Emp.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/company/practice/collection1/MapText.java" />
       </list>
     </option>
   </component>
@@ -244,6 +247,36 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaPractice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaPractice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="practice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="collection1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -257,31 +290,11 @@
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.MapSetExample">
-    <configuration default="false" name="FinalData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.company.practice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.company.practice.FinalData" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="JavaPractice" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.MapText">
     <configuration default="false" name="FinalMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.company.practice.*" />
+          <option name="PATTERN" value="com.company.practice.collection1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -301,7 +314,7 @@
     <configuration default="false" name="Muster" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.company.practice.*" />
+          <option name="PATTERN" value="com.company.practice.collection1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -321,7 +334,7 @@
     <configuration default="false" name="UpdateStu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.company.practice.*" />
+          <option name="PATTERN" value="com.company.practice.collection1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -341,11 +354,31 @@
     <configuration default="false" name="MapSetExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.company.practice.*" />
+          <option name="PATTERN" value="com.company.practice.collection1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="com.company.practice.MapSetExample" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="JavaPractice" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="MapText" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.company.practice.collection1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.company.practice.collection1.MapText" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -670,19 +703,19 @@
     <list size="7">
       <item index="0" class="java.lang.String" itemvalue="Application.calcConfig" />
       <item index="1" class="java.lang.String" itemvalue="Application.TrapConfig" />
-      <item index="2" class="java.lang.String" itemvalue="Application.FinalData" />
-      <item index="3" class="java.lang.String" itemvalue="Application.FinalMethod" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Muster" />
-      <item index="5" class="java.lang.String" itemvalue="Application.UpdateStu" />
-      <item index="6" class="java.lang.String" itemvalue="Application.MapSetExample" />
+      <item index="2" class="java.lang.String" itemvalue="Application.FinalMethod" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Muster" />
+      <item index="4" class="java.lang.String" itemvalue="Application.UpdateStu" />
+      <item index="5" class="java.lang.String" itemvalue="Application.MapSetExample" />
+      <item index="6" class="java.lang.String" itemvalue="Application.MapText" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.MapSetExample" />
-        <item index="1" class="java.lang.String" itemvalue="Application.UpdateStu" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Muster" />
-        <item index="3" class="java.lang.String" itemvalue="Application.FinalMethod" />
-        <item index="4" class="java.lang.String" itemvalue="Application.FinalData" />
+        <item index="0" class="java.lang.String" itemvalue="Application.MapText" />
+        <item index="1" class="java.lang.String" itemvalue="Application.MapSetExample" />
+        <item index="2" class="java.lang.String" itemvalue="Application.UpdateStu" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Muster" />
+        <item index="4" class="java.lang.String" itemvalue="Application.FinalMethod" />
       </list>
     </recent_temporary>
   </component>
@@ -728,11 +761,13 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980973" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29598308" sideWeight="0.50208336" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32980973" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980973" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -741,14 +776,12 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29598308" sideWeight="0.49791667" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29598308" sideWeight="0.49791667" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980973" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980973" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296875" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -979,13 +1012,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/practice/Animal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/company/practice/UseCase3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
@@ -1144,7 +1170,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/company/practice/UpdateStu.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
+        <state relative-caret-position="342">
           <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
           <folding>
             <element signature="e#459#460#0" expanded="true" />
@@ -1161,28 +1187,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/practice/Emp.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/practice/collection1/Emp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        <state relative-caret-position="95">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
           <folding>
-            <element signature="e#276#277#0" expanded="true" />
-            <element signature="e#303#304#0" expanded="true" />
-            <element signature="e#341#342#0" expanded="true" />
-            <element signature="e#373#374#0" expanded="true" />
-            <element signature="e#404#405#0" expanded="true" />
-            <element signature="e#433#434#0" expanded="true" />
-            <element signature="e#475#476#0" expanded="true" />
-            <element signature="e#511#512#0" expanded="true" />
+            <element signature="e#288#289#0" expanded="true" />
+            <element signature="e#315#316#0" expanded="true" />
+            <element signature="e#353#354#0" expanded="true" />
+            <element signature="e#385#386#0" expanded="true" />
+            <element signature="e#416#417#0" expanded="true" />
+            <element signature="e#445#446#0" expanded="true" />
+            <element signature="e#487#488#0" expanded="true" />
+            <element signature="e#523#524#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/practice/MapText.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/practice/Animal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="627">
-          <caret line="33" column="5" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+        <state relative-caret-position="0">
+          <caret line="0" column="24" selection-start-line="0" selection-start-column="24" selection-end-line="0" selection-end-column="24" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/practice/collection1/MapText.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

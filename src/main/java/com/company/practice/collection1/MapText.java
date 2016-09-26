@@ -1,4 +1,6 @@
-package com.company.practice;
+package com.company.practice.collection1;
+
+import com.company.practice.collection1.Emp;
 
 import java.util.*;
 

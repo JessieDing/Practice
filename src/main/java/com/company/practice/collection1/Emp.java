@@ -1,4 +1,4 @@
-package com.company.practice;
+package com.company.practice.collection1;
 
 /**
  * Created by Woody on 2016/9/26.
